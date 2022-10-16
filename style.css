@@ -1,0 +1,20 @@
+body{
+
+}
+
+.wrapper{
+    background: rgb(141, 174, 194);
+    min-height:100vh ;
+}
+li{
+    margin-bottom: .3rem;
+}
+
+i{
+    background: rgb(192, 133, 191);
+    width: 30px;
+    height: 30px;
+    padding-left: 7px;
+    padding-top: 7px;
+    border-radius: 50%;
+}
